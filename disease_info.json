@@ -1,0 +1,246 @@
+{
+"Apple___Apple_scab":{
+"description":"Apple scab is one of the most common fungal diseases affecting apple trees worldwide. It is caused by the fungus Venturia inaequalis and mainly attacks leaves and fruit surfaces. The disease thrives in cool and moist environments, especially during spring when new leaves are emerging. Infected leaves develop olive-green to dark brown lesions that gradually enlarge and become velvety in texture. As the disease progresses, leaves may curl, distort, or fall prematurely, reducing the plant's ability to photosynthesize. Fruits often develop rough, corky scabs that make them unmarketable and reduce crop yield significantly.",
+"cure":"Fungicides such as captan, myclobutanil, or sulfur-based sprays are commonly used to control apple scab. These treatments should be applied during early spring when the fungus begins to infect young leaves.",
+"prevention":"Remove and destroy fallen infected leaves to reduce fungal spores. Maintain good air circulation through pruning and choose disease-resistant apple varieties whenever possible.",
+"medicine_link":"https://www.google.com/search?q=captan+fungicide+apple+scab"
+},
+
+"Apple___Black_rot":{
+"description":"Black rot is a destructive fungal disease of apple trees caused by Botryosphaeria obtusa. It affects leaves, fruits, and branches of the tree and can spread quickly if left unmanaged. The disease often begins as small purple spots on leaves which enlarge and develop tan centers with dark margins. Fruits may develop dark brown or black rot, eventually shriveling and remaining on the tree as mummified fruit. The fungus can also infect bark and cause cankers that weaken branches. Warm and humid weather conditions favor the spread of this disease, making orchard sanitation extremely important.",
+"cure":"Apply fungicides such as thiophanate-methyl or captan during early infection stages. Pruning infected branches helps stop further spread.",
+"prevention":"Remove infected fruit and plant debris from the orchard. Proper pruning and maintaining tree health help reduce infection risk.",
+"medicine_link":"https://www.google.com/search?q=thiophanate+methyl+fungicide+black+rot"
+},
+
+"Apple___Cedar_apple_rust":{
+"description":"Cedar apple rust is a fungal disease that requires two host plants to complete its lifecycle: apple trees and cedar or juniper trees. The disease is caused by the fungus Gymnosporangium juniperi-virginianae. It appears on apple leaves as bright yellow or orange spots which later enlarge and form spore-producing structures. These infections can weaken the leaves and reduce photosynthesis efficiency. Fruits may also develop deformities and blemishes. The fungus spreads through airborne spores from nearby cedar trees, making the proximity of cedar trees an important factor in disease occurrence.",
+"cure":"Fungicides such as myclobutanil or propiconazole are effective when applied during early leaf development.",
+"prevention":"Plant resistant apple varieties and avoid planting apple trees near cedar or juniper hosts.",
+"medicine_link":"https://www.google.com/search?q=myclobutanil+fungicide+cedar+apple+rust"
+},
+
+"Apple___healthy":{
+"description":"A healthy apple plant shows no signs of disease or pest infestation. Leaves appear vibrant green and free from spots, discoloration, or deformation. Fruits develop normally without blemishes or rot, and the tree shows strong growth with balanced branching. Healthy plants are usually the result of good orchard management practices including proper watering, fertilization, and pest monitoring. Maintaining plant health ensures optimal fruit production and long-term productivity. Healthy apple trees also demonstrate resilience against minor environmental stress conditions.",
+"cure":"No treatment is required because the plant is already healthy.",
+"prevention":"Maintain proper irrigation, balanced fertilization, and routine pest monitoring to keep the plant healthy.",
+"medicine_link":"https://www.google.com/search?q=apple+plant+fertilizer"
+},
+
+"Blueberry___healthy":{
+"description":"A healthy blueberry plant displays lush green foliage and strong stem growth with no visible disease symptoms. Leaves are typically smooth, bright green, and free from discoloration or lesions. The plant produces well-developed berries during the fruiting season with proper sweetness and size. Healthy blueberry plants thrive in acidic soils and require adequate sunlight for optimal growth. Regular irrigation and proper soil management help maintain plant health and ensure consistent fruit production. Maintaining healthy plants also reduces the chances of disease outbreaks.",
+"cure":"No treatment is necessary since the plant is healthy.",
+"prevention":"Ensure soil pH remains acidic, provide adequate sunlight, and maintain proper watering schedules.",
+"medicine_link":"https://www.google.com/search?q=blueberry+plant+fertilizer"
+},
+
+"Cherry_(including_sour)___Powdery_mildew":{
+"description":"Powdery mildew is a fungal disease that commonly affects cherry plants, especially in humid environments. It is caused by fungi belonging to the Podosphaera species and appears as a white powder-like coating on leaves, stems, and sometimes fruit. The infection interferes with photosynthesis and can lead to reduced plant growth and fruit quality. Young leaves are particularly vulnerable and may curl or become distorted. In severe cases, the disease can spread rapidly across the entire plant. Proper management is necessary to prevent yield losses.",
+"cure":"Sulfur-based fungicides or potassium bicarbonate sprays are effective in controlling powdery mildew infections.",
+"prevention":"Ensure good air circulation by proper pruning and avoid overcrowding plants.",
+"medicine_link":"https://www.google.com/search?q=sulfur+fungicide+powdery+mildew+cherry"
+},
+
+"Cherry_(including_sour)___healthy":{
+"description":"A healthy cherry plant grows vigorously with smooth green leaves and strong stems. The absence of fungal spots, powdery coatings, or discoloration indicates that the plant is free from disease. Healthy cherry trees produce abundant blossoms followed by high-quality fruit during the harvest season. Adequate sunlight, balanced nutrition, and proper irrigation play key roles in maintaining plant health. Routine pruning and pest monitoring help maintain productivity and prevent disease outbreaks. Healthy plants also exhibit improved resistance to environmental stress.",
+"cure":"No treatment required.",
+"prevention":"Maintain regular pruning and balanced fertilization.",
+"medicine_link":"https://www.google.com/search?q=cherry+plant+fertilizer"
+},
+
+"Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot":{
+"description":"Gray leaf spot is a serious fungal disease affecting maize crops, caused by the fungus Cercospora zeae-maydis. The disease first appears as small gray or tan rectangular lesions on the leaves. These lesions gradually expand and may merge together, causing large portions of the leaf to die. Infected plants experience reduced photosynthesis, which ultimately lowers grain yield. Warm temperatures and prolonged leaf wetness create ideal conditions for disease development. If left unmanaged, gray leaf spot can significantly impact crop productivity in susceptible maize varieties.",
+"cure":"Fungicides containing azoxystrobin or propiconazole are commonly used to control gray leaf spot.",
+"prevention":"Practice crop rotation and plant resistant maize hybrids whenever possible.",
+"medicine_link":"https://www.google.com/search?q=azoxystrobin+fungicide+corn+gray+leaf+spot"
+},
+
+"Grape___Black_rot":{
+"description":"Black rot is a destructive fungal disease affecting grapevines and is caused by the fungus Guignardia bidwellii. The disease typically begins with small brown circular spots on leaves that gradually enlarge and develop dark margins. As the infection progresses, grape berries may shrivel and turn into hard black mummified fruits that remain attached to the vine. The fungus survives the winter in infected plant debris and spreads during warm, humid weather conditions. If left untreated, black rot can severely reduce grape yield and fruit quality. The disease spreads rapidly during rainy seasons when moisture levels are high.",
+"cure":"Apply fungicides such as mancozeb or myclobutanil at early stages of infection. Regular fungicide spraying during the growing season helps protect new leaves and fruit.",
+"prevention":"Remove infected plant debris and mummified grapes from the vineyard. Proper pruning and improving airflow between vines also reduces fungal growth.",
+"medicine_link":"https://www.google.com/search?q=mancozeb+fungicide+grape+black+rot"
+},
+
+"Grape___Esca_(Black_Measles)":{
+"description":"Esca, commonly known as Black Measles, is a complex grapevine disease caused by several fungal pathogens. It mainly affects older grapevines and damages the internal wood tissue of the plant. Leaves may develop distinctive tiger-stripe patterns with yellow and brown discoloration. Fruits can develop small dark spots, reducing their quality and market value. The disease weakens the plant over time and may eventually lead to vine death if not managed properly. Esca spreads slowly but causes significant long-term damage to vineyards.",
+"cure":"Prune and remove infected wood carefully and apply protective fungicides to prevent further spread.",
+"prevention":"Avoid large pruning wounds and maintain vineyard sanitation practices.",
+"medicine_link":"https://www.google.com/search?q=grape+vine+fungicide+esca+disease"
+},
+
+"Grape___Leaf_blight_(Isariopsis_Leaf_Spot)":{
+"description":"Leaf blight in grapes is caused by the fungus Isariopsis clavispora and primarily affects the foliage of grape plants. The disease begins with small dark spots on the leaves which gradually enlarge and turn brown. Severe infections cause leaves to dry and fall prematurely, reducing the plant's photosynthetic capacity. Warm temperatures combined with high humidity create ideal conditions for fungal growth. Infected leaves can weaken the plant and ultimately reduce grape production. Proper management is essential to prevent the disease from spreading across vineyards.",
+"cure":"Apply copper-based fungicides or protective sprays during early infection stages.",
+"prevention":"Ensure proper spacing between plants and remove infected leaves promptly.",
+"medicine_link":"https://www.google.com/search?q=copper+fungicide+grape+leaf+spot"
+},
+
+"Grape___healthy":{
+"description":"A healthy grapevine displays vibrant green leaves with no signs of discoloration, spots, or fungal growth. The plant produces well-formed grape clusters during the fruiting season and maintains strong vine growth. Healthy grape plants have balanced nutrient uptake and proper photosynthesis activity. Adequate sunlight, irrigation, and pruning contribute significantly to plant health. Healthy vines also demonstrate resistance to many environmental stresses and minor infections. Maintaining plant health ensures consistent fruit yield and quality.",
+"cure":"No treatment required since the plant is healthy.",
+"prevention":"Maintain regular pruning, balanced fertilization, and proper irrigation schedules.",
+"medicine_link":"https://www.google.com/search?q=grape+plant+fertilizer"
+},
+
+"Orange___Haunglongbing_(Citrus_greening)":{
+"description":"Huanglongbing, also known as citrus greening disease, is one of the most devastating diseases affecting citrus plants. It is caused by a bacterial pathogen that is transmitted by the Asian citrus psyllid insect. Infected plants develop yellow shoots, blotchy mottled leaves, and produce small, misshapen fruits that remain green even when ripe. The disease interferes with nutrient transport inside the plant and gradually weakens the tree. Once infected, citrus plants rarely recover and productivity declines significantly. Managing the insect vector is critical in controlling the disease.",
+"cure":"Currently there is no complete cure for citrus greening. Infected trees should be removed to prevent further spread.",
+"prevention":"Control psyllid insects using appropriate insecticides and use certified disease-free planting material.",
+"medicine_link":"https://www.google.com/search?q=psyllid+insecticide+citrus+greening"
+},
+
+"Peach___Bacterial_spot":{
+"description":"Bacterial spot is a common disease affecting peach trees and is caused by the bacterium Xanthomonas campestris. The disease mainly affects leaves, fruits, and young shoots. Small water-soaked spots appear on leaves and later turn dark brown or black. Fruits may develop sunken lesions that crack and reduce fruit quality. Warm and humid weather conditions promote rapid bacterial growth and spread. Severe infections can cause premature leaf drop and significantly reduce crop yield.",
+"cure":"Copper-based bactericides can help suppress bacterial growth when applied early.",
+"prevention":"Plant resistant peach varieties and avoid overhead irrigation that spreads bacteria.",
+"medicine_link":"https://www.google.com/search?q=copper+bactericide+peach+bacterial+spot"
+},
+
+"Peach___healthy":{
+"description":"Healthy peach plants display bright green leaves without any spots or discoloration. The tree grows vigorously and produces high-quality fruits during the harvesting season. Balanced nutrient supply and adequate irrigation contribute to strong plant development. Healthy plants also demonstrate better resistance against diseases and pests. Regular pruning and orchard management practices ensure proper air circulation and sunlight exposure. Maintaining healthy plants is essential for sustainable fruit production.",
+"cure":"No treatment required.",
+"prevention":"Follow proper orchard management practices and monitor for pests regularly.",
+"medicine_link":"https://www.google.com/search?q=peach+plant+fertilizer"
+},
+
+"Pepper,_bell___Bacterial_spot":{
+"description":"Bacterial spot is a major disease affecting bell pepper plants and is caused by bacteria from the Xanthomonas species. The disease begins as small water-soaked lesions on leaves that gradually enlarge and turn dark brown. Infected leaves may drop prematurely, weakening the plant and reducing fruit yield. Fruits may also develop rough scabby spots that reduce their market value. The disease spreads easily through contaminated water, tools, and infected seeds. Warm and humid conditions accelerate bacterial growth.",
+"cure":"Copper-based bactericides can be applied to slow the spread of infection.",
+"prevention":"Use disease-free seeds and avoid overhead watering that spreads bacteria.",
+"medicine_link":"https://www.google.com/search?q=copper+bactericide+pepper+bacterial+spot"
+},
+
+"Pepper,_bell___healthy":{
+"description":"Healthy bell pepper plants show lush green leaves and strong stem growth with no visible disease symptoms. The plant produces smooth and well-developed fruits under proper growing conditions. Adequate sunlight, water, and nutrient availability contribute to healthy plant growth. Proper spacing between plants ensures good airflow and reduces disease risk. Maintaining plant health also helps prevent pest infestations and environmental stress damage.",
+"cure":"No treatment required.",
+"prevention":"Maintain proper irrigation, fertilization, and pest monitoring.",
+"medicine_link":"https://www.google.com/search?q=bell+pepper+plant+fertilizer"
+},
+
+"Potato___Early_blight":{
+"description":"Early blight is a common fungal disease affecting potato plants and is caused by the fungus Alternaria solani. The disease typically appears as dark brown spots with concentric rings on leaves, giving them a target-like appearance. Older leaves are usually affected first, and severe infections can lead to premature leaf drop. This reduces the plant's ability to produce energy through photosynthesis. Early blight can significantly reduce potato yield if left untreated. Warm temperatures and moderate humidity favor disease development.",
+"cure":"Apply fungicides such as chlorothalonil or mancozeb during early stages of infection.",
+"prevention":"Practice crop rotation and remove infected plant debris from the field.",
+"medicine_link":"https://www.google.com/search?q=chlorothalonil+fungicide+potato+early+blight"
+},
+
+"Potato___Late_blight":{
+"description":"Late blight is one of the most destructive diseases affecting potato crops and is caused by the pathogen Phytophthora infestans. The disease spreads rapidly under cool and moist conditions and can destroy entire crops within a short time. Infected leaves develop large dark lesions with white fungal growth on the underside. Stems may also become infected, leading to plant collapse. Potato tubers can rot both in the field and during storage. Effective management is essential to prevent severe yield losses.",
+"cure":"Use fungicides such as mancozeb or metalaxyl to control the disease.",
+"prevention":"Plant resistant varieties and avoid excessive moisture in the field.",
+"medicine_link":"https://www.google.com/search?q=metalaxyl+fungicide+potato+late+blight"
+},
+
+"Potato___healthy":{
+"description":"Healthy potato plants show strong leafy growth with vibrant green foliage and no visible signs of disease. The plant develops underground tubers normally without rotting or deformities. Proper soil conditions, irrigation, and balanced fertilization help maintain plant health. Healthy plants also demonstrate better resistance against environmental stress and pests. Good agricultural practices ensure optimal yield and crop quality. Monitoring plant health regularly helps detect early signs of disease or nutrient deficiencies.",
+"cure":"No treatment required.",
+"prevention":"Maintain proper irrigation and balanced soil nutrition.",
+"medicine_link":"https://www.google.com/search?q=potato+plant+fertilizer"
+},
+
+"Raspberry___healthy":{
+"description":"A healthy raspberry plant exhibits strong upright stems and vibrant green leaves with no signs of discoloration or disease. The plant grows vigorously and produces well-developed berries during the fruiting season. Healthy raspberry plants benefit from good soil drainage, adequate sunlight, and balanced fertilization. Regular pruning helps maintain airflow and encourages productive growth. Proper irrigation ensures that the plant remains hydrated without promoting fungal diseases. Maintaining healthy plants is important for consistent fruit production and long-term plant vitality.",
+"cure":"No treatment is required because the plant shows no signs of disease.",
+"prevention":"Maintain proper irrigation and prune plants regularly to promote airflow and reduce disease risk.",
+"medicine_link":"https://www.google.com/search?q=raspberry+plant+fertilizer"
+},
+
+"Soybean___healthy":{
+"description":"Healthy soybean plants grow with strong stems and lush green leaves that indicate proper nutrient uptake and development. The plant produces well-formed pods that contain soybean seeds essential for agricultural production. Healthy soybean crops depend on balanced soil nutrients, adequate irrigation, and good sunlight exposure. Farmers monitor soybean plants carefully during growth stages to ensure proper development and prevent disease outbreaks. Healthy crops typically exhibit uniform growth across the field and minimal pest damage. Maintaining healthy plants helps ensure optimal yield and crop quality.",
+"cure":"No treatment required because the crop is healthy.",
+"prevention":"Maintain balanced soil nutrients and monitor crops regularly for pests or early disease symptoms.",
+"medicine_link":"https://www.google.com/search?q=soybean+plant+fertilizer"
+},
+
+"Squash___Powdery_mildew":{
+"description":"Powdery mildew is a fungal disease commonly affecting squash plants and is caused by fungi from the Podosphaera or Erysiphe species. The disease appears as white powder-like patches on the upper surfaces of leaves and stems. These fungal growths reduce the plant’s ability to perform photosynthesis effectively. Infected leaves may turn yellow, curl, and eventually die if the disease progresses. Powdery mildew spreads rapidly in warm, dry environments with moderate humidity. Early detection and treatment are important to prevent yield losses.",
+"cure":"Apply sulfur-based fungicides or potassium bicarbonate sprays to control fungal growth.",
+"prevention":"Ensure good air circulation around plants and avoid overcrowding in the field.",
+"medicine_link":"https://www.google.com/search?q=sulfur+fungicide+powdery+mildew+squash"
+},
+
+"Strawberry___Leaf_scorch":{
+"description":"Leaf scorch is a fungal disease affecting strawberry plants and is caused by the fungus Diplocarpon earlianum. The disease first appears as small purple spots on leaves which gradually enlarge and develop brown centers. As the infection spreads, leaves may curl and dry out prematurely. Severe infections reduce the plant's ability to produce energy through photosynthesis, resulting in poor fruit development. Warm and humid environmental conditions encourage the spread of this disease. Proper disease management is necessary to protect strawberry crops.",
+"cure":"Apply fungicides such as captan or myclobutanil during early stages of infection.",
+"prevention":"Remove infected leaves and avoid excessive irrigation that increases humidity.",
+"medicine_link":"https://www.google.com/search?q=captan+fungicide+strawberry+leaf+scorch"
+},
+
+"Strawberry___healthy":{
+"description":"Healthy strawberry plants display bright green leaves with strong stems and well-developed fruit clusters. The absence of spots, discoloration, or fungal growth indicates that the plant is free from disease. Healthy plants produce high-quality strawberries with proper size, color, and sweetness. Good soil drainage, balanced fertilization, and adequate sunlight help maintain plant health. Proper spacing between plants also improves airflow and reduces disease risks. Maintaining healthy plants ensures consistent fruit production and long-term crop sustainability.",
+"cure":"No treatment required since the plant is healthy.",
+"prevention":"Provide adequate sunlight, proper irrigation, and balanced fertilization.",
+"medicine_link":"https://www.google.com/search?q=strawberry+plant+fertilizer"
+},
+
+"Tomato___Bacterial_spot":{
+"description":"Bacterial spot is a serious disease affecting tomato plants and is caused by bacteria belonging to the Xanthomonas species. The disease begins with small dark water-soaked spots on leaves and stems. As the infection progresses, the spots enlarge and may cause leaf yellowing and drop. Fruits can develop rough scabby lesions that reduce their market quality. Warm temperatures and high humidity promote bacterial growth and spread. The disease spreads through contaminated seeds, water splash, and infected tools.",
+"cure":"Apply copper-based bactericides to control bacterial growth and slow disease spread.",
+"prevention":"Use certified disease-free seeds and avoid overhead irrigation to reduce bacterial spread.",
+"medicine_link":"https://www.google.com/search?q=copper+bactericide+tomato+bacterial+spot"
+},
+
+"Tomato___Early_blight":{
+"description":"Early blight is a fungal disease caused by Alternaria solani that affects tomato plants at various growth stages. It first appears as small brown spots on older leaves, often forming concentric rings that resemble a target pattern. As the infection spreads, leaves may yellow and fall prematurely. This reduces the plant's ability to produce energy through photosynthesis. Severe infections can also affect stems and fruits, leading to yield reduction. Warm temperatures and moderate humidity favor the development of this disease.",
+"cure":"Apply fungicides such as chlorothalonil or mancozeb during early infection stages.",
+"prevention":"Practice crop rotation and remove infected plant debris from the field.",
+"medicine_link":"https://www.google.com/search?q=chlorothalonil+fungicide+tomato+early+blight"
+},
+
+"Tomato___Late_blight":{
+"description":"Late blight is a highly destructive disease affecting tomato crops and is caused by the pathogen Phytophthora infestans. The disease spreads rapidly under cool and wet environmental conditions. Infected leaves develop large dark lesions that may appear water-soaked and eventually rot. White fungal growth may appear on the underside of infected leaves. The disease can spread quickly to stems and fruits, causing severe crop losses. Proper monitoring and early treatment are essential to control outbreaks.",
+"cure":"Apply fungicides such as mancozeb or metalaxyl to protect plants from infection.",
+"prevention":"Avoid prolonged leaf wetness and ensure good air circulation around plants.",
+"medicine_link":"https://www.google.com/search?q=metalaxyl+fungicide+tomato+late+blight"
+},
+
+"Tomato___Leaf_Mold":{
+"description":"Leaf mold is a fungal disease caused by Passalora fulva and commonly affects tomato plants grown in humid environments such as greenhouses. The disease begins as pale yellow spots on the upper leaf surface while the underside develops a velvety mold growth. As the infection spreads, leaves may curl and eventually dry out. Severe infections reduce the plant's ability to photosynthesize effectively. The disease thrives in environments with high humidity and poor ventilation. Proper environmental control helps reduce infection risk.",
+"cure":"Apply fungicides such as chlorothalonil or copper-based sprays.",
+"prevention":"Reduce humidity levels and improve ventilation around tomato plants.",
+"medicine_link":"https://www.google.com/search?q=copper+fungicide+tomato+leaf+mold"
+},
+
+"Tomato___Septoria_leaf_spot":{
+"description":"Septoria leaf spot is a fungal disease affecting tomato plants and is caused by the fungus Septoria lycopersici. The disease begins with small circular spots on leaves that develop gray or tan centers with dark borders. As the infection spreads, leaves may turn yellow and fall prematurely. This reduces the plant's photosynthetic capacity and weakens plant growth. The fungus spreads through water splashes and infected plant debris. Warm and humid weather conditions accelerate the disease cycle.",
+"cure":"Use fungicides such as copper-based sprays or chlorothalonil to control infection.",
+"prevention":"Remove infected leaves and avoid overhead watering.",
+"medicine_link":"https://www.google.com/search?q=copper+fungicide+tomato+septoria+leaf+spot"
+},
+
+"Tomato___Spider_mites Two-spotted_spider_mite":{
+"description":"Two-spotted spider mites are tiny pests that attack tomato plants by feeding on plant sap. Infested leaves develop small yellow speckles which later turn brown as damage increases. Spider mites reproduce rapidly in warm and dry conditions, causing severe plant stress. Fine webbing may appear on leaves and stems during heavy infestations. These pests weaken the plant and reduce fruit production. Early detection and proper pest management are essential to protect tomato crops.",
+"cure":"Use insecticidal soaps or miticides to control spider mite populations.",
+"prevention":"Maintain adequate humidity and regularly inspect plants for early infestations.",
+"medicine_link":"https://www.google.com/search?q=spider+mite+insecticide+tomato"
+},
+
+"Tomato___Target_Spot":{
+"description":"Target spot is a fungal disease caused by Corynespora cassiicola that affects tomato plants in warm and humid climates. The disease appears as brown circular lesions with concentric rings on leaves, stems, and fruits. Infected leaves may develop yellow halos and eventually fall from the plant. Severe infections weaken plant growth and reduce fruit yield. The fungus spreads through spores carried by wind and water. Proper disease management helps prevent severe crop damage.",
+"cure":"Apply fungicides such as azoxystrobin or chlorothalonil.",
+"prevention":"Practice crop rotation and remove infected plant debris.",
+"medicine_link":"https://www.google.com/search?q=azoxystrobin+fungicide+tomato+target+spot"
+},
+
+"Tomato___Tomato_Yellow_Leaf_Curl_Virus":{
+"description":"Tomato Yellow Leaf Curl Virus is a viral disease transmitted primarily by whitefly insects. Infected plants exhibit yellowing and upward curling of leaves along with stunted growth. The virus interferes with normal plant development and significantly reduces fruit production. Fruits produced by infected plants are often small and of poor quality. The disease spreads quickly in warm climates where whitefly populations are high. Early detection and vector control are essential to manage this disease.",
+"cure":"There is no direct cure for viral infections; infected plants should be removed to prevent spread.",
+"prevention":"Control whitefly populations using insecticides and use virus-resistant tomato varieties.",
+"medicine_link":"https://www.google.com/search?q=whitefly+insecticide+tomato+yellow+leaf+curl"
+},
+
+"Tomato___Tomato_mosaic_virus":{
+"description":"Tomato mosaic virus is a viral disease that infects tomato plants and disrupts normal plant growth. Infected leaves develop a mosaic-like pattern of light and dark green areas. Leaves may become distorted, curled, or stunted. The virus spreads through contaminated tools, infected seeds, and direct plant contact. Infected plants produce fewer fruits and may show reduced vigor. Proper sanitation and use of resistant varieties are important for disease management.",
+"cure":"There is no cure for the virus once infection occurs; infected plants should be removed.",
+"prevention":"Disinfect gardening tools and use certified virus-free seeds.",
+"medicine_link":"https://www.google.com/search?q=tomato+mosaic+virus+control"
+},
+
+"Tomato___healthy":{
+"description":"Healthy tomato plants exhibit vibrant green foliage and strong stems with no visible disease symptoms. The plant grows vigorously and produces high-quality fruits during the harvesting season. Balanced soil nutrition, adequate sunlight, and proper irrigation help maintain plant health. Healthy plants are more resistant to environmental stress and minor pest attacks. Good agricultural practices such as pruning, staking, and regular monitoring contribute to long-term plant productivity. Maintaining healthy crops ensures better yield and fruit quality.",
+"cure":"No treatment required since the plant is healthy.",
+"prevention":"Provide balanced fertilization, proper watering, and regular pest monitoring.",
+"medicine_link":"https://www.google.com/search?q=tomato+plant+fertilizer"
+}
+}
