@@ -2,8 +2,9 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 import json
+import os
+import gdown
 from PIL import Image
-
 # Page configuration
 st.set_page_config(
     page_title="Plant Disease Detection System",
@@ -11,8 +12,15 @@ st.set_page_config(
     layout="wide"
 )
 
+# ===== DOWNLOAD MODEL FROM GOOGLE DRIVE =====
+MODEL_PATH = "trained_model.keras"
+
+if not os.path.exists(MODEL_PATH):
+    url = "https://drive.google.com/uc?id=16uKJbhHEKTO1aEhbVBv6vcic49mWSmDH"
+    gdown.download(url, MODEL_PATH, quiet=False)
+
 # Load model
-model = tf.keras.models.load_model("trained_model.keras")
+model = tf.keras.models.load_model(MODEL_PATH)
 
 # Load disease information
 with open("disease_info.json") as f:
@@ -110,16 +118,10 @@ This project uses **Deep Learning (CNN)** to detect plant diseases from leaf ima
 ### Dataset
 The dataset contains **87,000+ images** of healthy and diseased plant leaves categorized into **38 classes**.
 
-Dataset split:
-- Training set
-- Validation set
-- Test set
-
 ### Technologies Used
 - Python
 - TensorFlow / Keras
 - Streamlit
-- OpenCV
 - NumPy
 """)
 
@@ -173,8 +175,7 @@ elif(app_mode=="Disease Recognition"):
                         st.subheader("🛒 Recommended Medicine")
 
                         st.markdown(
-                         f"[🛒 Buy Recommended Medicine]({disease_data[disease]['medicine_link']})",
-                          unsafe_allow_html=True
+                            f"[🛒 Buy Recommended Medicine]({disease_data[disease]['medicine_link']})"
                         )
 
                     else:
